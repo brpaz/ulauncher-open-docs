@@ -1,0 +1,102 @@
+[
+  {
+    "key": "php",
+    "name": "PHP",
+    "url": "http://php.net/docs.php"
+  },
+  {
+    "key": "node",
+    "name": "NodeJS | Guides",
+    "url": "https://nodejs.org/en/docs/guides/"
+  },
+  {
+    "key": "node",
+    "name": "NodeJS | API Reference",
+    "url": "https://nodejs.org/api/"
+  },
+  {
+    "key": "vue",
+    "name": "VueJS",
+    "url": "https://vuejs.org/v2/guide/"
+  },
+  {
+    "key": "golang",
+    "name": "Golang",
+    "url": "https://golang.org/doc/"
+  },
+  {
+    "key": "ansible",
+    "name": "Ansible",
+    "url": "https://docs.ansible.com/ansible/latest/index.html"
+  },
+  {
+    "key": "terraform",
+    "name": "Terraform",
+    "url": "https://www.terraform.io/docs/index.html"
+  },
+  {
+    "key": "gitlab",
+    "name": "GitLab",
+    "url": "https://docs.gitlab.com/"
+  },
+  {
+    "key": "circleci",
+    "name": "CircleCI",
+    "url": "https://circleci.com/docs/"
+  },
+  {
+    "key": "netlify",
+    "name": "Netlify",
+    "url": "https://www.netlify.com/docs/"
+  },
+  {
+    "key": "firebase",
+    "name": "Firebase",
+    "url": "https://firebase.google.com/docs/"
+  },
+  {
+    "key": "symfony",
+    "name": "Symfony",
+    "url": "https://symfony.com/doc/current/index.html#gsc.tab=0"
+  },
+  {
+    "key": "gitlab",
+    "name": "GitLab | CI Variables",
+    "url": "https://docs.gitlab.com/ee/ci/variables/"
+  },
+  {
+    "key": "gitlab",
+    "name": "GitLab | YAML config",
+    "url": "https://docs.gitlab.com/ee/ci/yaml/"
+  },
+  {
+    "key": "react",
+    "name": "React",
+    "url": "https://reactjs.org/docs/getting-started.html"
+  },
+  {
+    "key": "docker",
+    "name": "Docker",
+    "url": "https://docs.docker.com/"
+  },
+  {
+    "key": "git",
+    "name": "Git",
+    "url": "https://git-scm.com/docs"
+  },
+  {
+    "key": "python",
+    "name": "Python 2.7 | Language Reference",
+    "url": "https://docs.python.org/2.7/reference/index.html"
+  },
+  {
+    "key": "vala",
+    "name": "Vala",
+    "url": "https://valadoc.org/"
+  },
+  {
+    "key": "javascript",
+    "name": "Javascript",
+    "url": "https://developer.mozilla.org/pt-PT/docs/Web/JavaScript"
+  }
+]

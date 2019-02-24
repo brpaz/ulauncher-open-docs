@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  test:
+    docker:
+      - image: circleci/python:2.7
+    steps:
+      - checkout
+      - run:
+          command: |  # install depdendencies
+            sudo pip install pylint autopep8
+            make lint
