@@ -12,6 +12,7 @@ from ulauncher.api.shared.event import KeywordQueryEvent
 from ulauncher.api.shared.item.ExtensionResultItem import ExtensionResultItem
 from ulauncher.api.shared.action.RenderResultListAction import RenderResultListAction
 from ulauncher.api.shared.action.OpenUrlAction import OpenUrlAction
+from ulauncher.api.shared.action.CopyToClipboardAction import CopyToClipboardAction
 
 LOGGING = logging.getLogger(__name__)
 
@@ -59,7 +60,9 @@ class KeywordQueryEventListener(EventListener):
             items.append(ExtensionResultItem(
                 icon=icon,
                 name=doc['name'],
-                on_enter=OpenUrlAction(doc['url'])))
+                on_enter=OpenUrlAction(doc['url']),
+                on_alt_enter=CopyToClipboardAction(doc['url'])
+            ))
 
         return RenderResultListAction(items)
 

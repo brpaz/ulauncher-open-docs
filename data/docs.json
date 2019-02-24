@@ -98,5 +98,10 @@
     "key": "javascript",
     "name": "Javascript",
     "url": "https://developer.mozilla.org/pt-PT/docs/Web/JavaScript"
+  },
+  {
+    "key": "gitlab",
+    "name": "GitLab | API Documentation",
+    "url": "https://docs.gitlab.com/ee/api/"
   }
 ]
