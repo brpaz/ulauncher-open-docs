@@ -3,7 +3,7 @@
 > Open popular documnetation sites
 
 [![CircleCI](https://img.shields.io/circleci/project/brpaz/ulauncher-open-docs.svg?style=for-the-badge)](https://circleci.com/gh/brpaz/ulauncher-open-docs)
-[![GitHub license](https://img.shields.io/github/license/brpaz/ulauncher-open-docs.svg)](https://github.com/brpaz/:ulauncher-open-docs/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/brpaz/ulauncher-open-docs.svg?style=for-the-badge)](https://github.com/brpaz/:ulauncher-open-docs/blob/master/LICENSE)
 
 ## Demo
 
