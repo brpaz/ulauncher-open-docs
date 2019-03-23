@@ -1,6 +1,6 @@
 # ulauncher-open-docs
 
-[![CircleCI](https://circleci.com/gh/brpaz/ulauncher-open-docs.svg?style=svg)](https://circleci.com/gh/brpaz/ulauncher-open-docs)
+[![CircleCI]https://img.shields.io/circleci/project/brpaz/ulauncher-open-docs.svg?style=for-the-badge)](https://circleci.com/gh/brpaz/ulauncher-open-docs)
 [![GitHub license](https://img.shields.io/github/license/brpaz/ulauncher-open-docs.svg)](https://github.com/brpaz/:ulauncher-open-docs/blob/master/LICENSE)
 
 > Open popular documnetation sites
@@ -58,6 +58,12 @@ To see your changes, stop ulauncher and run it from the command line with: `ulau
 * Commit your changes: git commit -am 'Add some feature'
 * Push to the branch: git push origin my-new-feature
 * Submit a pull request :D
+
+## Support
+
+If you like my work, you can:
+
+<a href="https://www.buymeacoffee.com/Z1Bu6asGV" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## License
 
