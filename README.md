@@ -1,7 +1,7 @@
 # ulauncher-open-docs
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg?style=for-the-badge)](https://ext.ulauncher.io/-/github-brpaz-ulauncher-open-docs)
-[![CircleCI](https://circleci.com/gh/brpaz/ulauncher-open-docs.svg?style=svg)](https://circleci.com/gh/brpaz/ulauncher-open-docs)
+[![CircleCI](https://circleci.com/gh/brpaz/ulauncher-open-docs.svg?style=for-the-badge)](https://circleci.com/gh/brpaz/ulauncher-open-docs)
 [![GitHub license](https://img.shields.io/github/license/brpaz/ulauncher-open-docs.svg)](https://github.com/brpaz/:ulauncher-open-docs/blob/master/LICENSE)
 
 > Open popular documnetation sites
