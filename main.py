@@ -42,7 +42,10 @@ class KeywordQueryEventListener(EventListener):
     def on_event(self, event, extension):
         """ Handles the event """
 
-        with open('data/docs.json') as f_data:
+        script_dir = os.path.dirname(__file__)
+        file_path = os.path.join(script_dir, 'data', 'docs.json')
+
+        with open(file_path) as f_data:
             docs = json.load(f_data)
 
         query = event.get_argument() or ""
@@ -60,6 +63,7 @@ class KeywordQueryEventListener(EventListener):
             items.append(ExtensionResultItem(
                 icon=icon,
                 name=doc['name'],
+                description=doc['description'],
                 on_enter=OpenUrlAction(doc['url']),
                 on_alt_enter=CopyToClipboardAction(doc['url'])
             ))

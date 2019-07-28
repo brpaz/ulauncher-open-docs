@@ -2,106 +2,139 @@
   {
     "key": "php",
     "name": "PHP",
+    "description": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
     "url": "http://php.net/docs.php"
   },
   {
     "key": "node",
     "name": "NodeJS | Guides",
+    "description": "",
     "url": "https://nodejs.org/en/docs/guides/"
   },
   {
     "key": "node",
     "name": "NodeJS | API Reference",
+    "description": "",
     "url": "https://nodejs.org/api/"
   },
   {
     "key": "vue",
     "name": "VueJS",
+    "description": "The Progressive JavaScript Framework",
     "url": "https://vuejs.org/v2/guide/"
   },
   {
     "key": "golang",
     "name": "Golang",
+    "description": "",
     "url": "https://golang.org/doc/"
   },
   {
     "key": "ansible",
     "name": "Ansible",
+    "description": "",
     "url": "https://docs.ansible.com/ansible/latest/index.html"
   },
   {
     "key": "terraform",
     "name": "Terraform",
+    "description": "",
     "url": "https://www.terraform.io/docs/index.html"
   },
   {
     "key": "gitlab",
     "name": "GitLab",
+    "description": "",
     "url": "https://docs.gitlab.com/"
   },
   {
     "key": "circleci",
     "name": "CircleCI",
+    "description": "",
     "url": "https://circleci.com/docs/"
   },
   {
     "key": "netlify",
     "name": "Netlify",
+    "description": "",
     "url": "https://www.netlify.com/docs/"
   },
   {
     "key": "firebase",
     "name": "Firebase",
+    "description": "",
     "url": "https://firebase.google.com/docs/"
   },
   {
     "key": "symfony",
     "name": "Symfony",
+    "description": "",
     "url": "https://symfony.com/doc/current/index.html#gsc.tab=0"
   },
   {
     "key": "gitlab",
     "name": "GitLab | CI Variables",
+    "description": "",
     "url": "https://docs.gitlab.com/ee/ci/variables/"
   },
   {
     "key": "gitlab",
     "name": "GitLab | YAML config",
+    "description": "",
     "url": "https://docs.gitlab.com/ee/ci/yaml/"
   },
   {
     "key": "react",
     "name": "React",
+    "description": "",
     "url": "https://reactjs.org/docs/getting-started.html"
   },
   {
     "key": "docker",
     "name": "Docker",
+    "description": "",
     "url": "https://docs.docker.com/"
   },
   {
     "key": "git",
     "name": "Git",
+    "description": "",
     "url": "https://git-scm.com/docs"
   },
   {
     "key": "python",
     "name": "Python 2.7 | Language Reference",
+    "description": "",
     "url": "https://docs.python.org/2.7/reference/index.html"
   },
   {
     "key": "vala",
     "name": "Vala",
+    "description": "",
     "url": "https://valadoc.org/"
   },
   {
     "key": "javascript",
     "name": "Javascript",
+    "description": "",
     "url": "https://developer.mozilla.org/pt-PT/docs/Web/JavaScript"
   },
   {
     "key": "gitlab",
     "name": "GitLab | API Documentation",
+    "description": "",
     "url": "https://docs.gitlab.com/ee/api/"
+  },
+  {
+    "key": "gatsby",
+    "name": "Gatsby",
+    "description": "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps",
+    "url": "https://www.gatsbyjs.org/docs/"
+  },
+  {
+    "key": "nuxt",
+    "name": "NuxtJS",
+    "url": "https://nuxtjs.org/guide",
+    "description": "Nuxt.js is a framework for creating Vue.js applications, you can choose between Universal, Static Generated or Single Page application."
   }
 ]
